@@ -9,7 +9,9 @@ box
 #HEAD
 push
 move
-0 100 0
+0 175 0
+rotate
+y 90
 sphere
 0 0 0 50
 pop
